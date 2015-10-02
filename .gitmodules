@@ -25,3 +25,9 @@
 [submodule "roles/ruby-rvm"]
 	path = roles/ruby-rvm
 	url = https://github.com/gitinsky/ansible-role-ruby-rvm.git
+[submodule "roles/grafana-dockerized"]
+	path = roles/grafana-dockerized
+	url = https://github.com/gitinsky/ansible-role-grafana-dockerized.git
+[submodule "roles/grafana-container"]
+	path = roles/grafana-container
+	url = https://github.com/gitinsky/ansible-role-grafana-container.git
