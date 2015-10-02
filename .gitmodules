@@ -1,0 +1,27 @@
+[submodule "roles/cyanite"]
+	path = roles/cyanite
+	url = https://github.com/gitinsky/ansible-role-cyanite.git
+[submodule "roles/leiningen"]
+	path = roles/leiningen
+	url = https://github.com/gitinsky/ansible-role-leiningen.git
+[submodule "roles/graphite"]
+	path = roles/graphite
+	url = https://github.com/gitinsky/ansible-role-graphite.git
+[submodule "roles/eye"]
+	path = roles/eye
+	url = https://github.com/gitinsky/ansible-role-eye.git
+[submodule "roles/vagrant"]
+	path = roles/vagrant
+	url = https://github.com/gitinsky/ansible-role-vagrant.git
+[submodule "roles/cassandra"]
+	path = roles/cassandra
+	url = https://github.com/gitinsky/ansible-role-cassandra-g1gc-automem-runit.git
+[submodule "roles/java"]
+	path = roles/java
+	url = https://github.com/gitinsky/ansible-role-java.git
+[submodule "roles/runit"]
+	path = roles/runit
+	url = https://github.com/gitinsky/ansible-role-runit.git
+[submodule "roles/ruby-rvm"]
+	path = roles/ruby-rvm
+	url = https://github.com/gitinsky/ansible-role-ruby-rvm.git
