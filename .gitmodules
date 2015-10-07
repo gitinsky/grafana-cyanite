@@ -40,3 +40,9 @@
 [submodule "roles/docker.ubuntu"]
 	path = roles/docker.ubuntu
 	url = https://github.com/angstwad/docker.ubuntu.git
+[submodule "roles/nodejs"]
+	path = roles/nodejs
+	url = https://github.com/gitinsky/ansible-role-nodejs.git
+[submodule "roles/statsd"]
+	path = roles/statsd
+	url = https://github.com/gitinsky/ansible-role-statsd.git
