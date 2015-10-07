@@ -46,3 +46,6 @@
 [submodule "roles/statsd"]
 	path = roles/statsd
 	url = https://github.com/gitinsky/ansible-role-statsd.git
+[submodule "roles/grafana"]
+	path = roles/grafana
+	url = https://github.com/gitinsky/ansible-role-grafana.git
