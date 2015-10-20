@@ -1,9 +1,9 @@
+This repo is designed to test grafana installation based on cyanite backend.
+
 ```bash
-git clone http://10.40.0.10/hryamzik/grafana-vagrant.git
+git clone https://github.com/gitinsky/grafana-cyanite.git
 cd grafana-vagrant/
 git submodule update --init
-cd roles/cyanite/vagrant/
-git submodule update --init
+cd /vagrant/
 vagrant up
-ansible-playbook cyanite.yml
 ```
