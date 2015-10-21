@@ -1,6 +1,6 @@
 cyanite_if: eth1
 cyanite_hosts_group: virtlab
-lein_latest: yes
+cyanite_latest: yes
 
 cassandra_node_iface_ext: eth1
 cassandra_node_iface_int: eth1
