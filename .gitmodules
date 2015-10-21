@@ -25,15 +25,9 @@
 [submodule "roles/ruby-rvm"]
 	path = roles/ruby-rvm
 	url = https://github.com/gitinsky/ansible-role-ruby-rvm.git
-[submodule "roles/docker-io"]
-	path = roles/docker-io
-	url = https://github.com/gitinsky/ansible-role-docker-io.git
 [submodule "roles/nginx"]
 	path = roles/nginx
 	url = https://github.com/gitinsky/ansible-role-nginx
-[submodule "roles/docker.ubuntu"]
-	path = roles/docker.ubuntu
-	url = https://github.com/angstwad/docker.ubuntu.git
 [submodule "roles/nodejs"]
 	path = roles/nodejs
 	url = https://github.com/gitinsky/ansible-role-nodejs.git
@@ -43,21 +37,12 @@
 [submodule "roles/grafana"]
 	path = roles/grafana
 	url = https://github.com/gitinsky/ansible-role-grafana.git
-[submodule "roles/elasticsearch-dockerized"]
-	path = roles/elasticsearch-dockerized
-	url = https://github.com/gitinsky/ansible-role-elasticsearch-dockerized.git
-[submodule "roles/elasticsearch-container"]
-	path = roles/elasticsearch-container
-	url = https://github.com/gitinsky/ansible-role-elasticsearch-container.git
 [submodule "roles/opscenter"]
 	path = roles/opscenter
 	url = https://github.com/gitinsky/ansible-role-opscenter.git
 [submodule "roles/opscenter-agent"]
 	path = roles/opscenter-agent
 	url = https://github.com/gitinsky/ansible-role-opscenter-agent.git
-[submodule "roles/curator"]
-	path = roles/curator
-	url = https://github.com/gitinsky/ansible-role-curator.git
 [submodule "vagrant/inventory/ansible-vagrant-inventory"]
 	path = vagrant/inventory/ansible-vagrant-inventory
 	url = https://github.com/gitinsky/ansible-vagrant-inventory.git
