@@ -17,3 +17,6 @@ elasticsearch_if: eth1
 
 opscenter_inventory_hostname: cyanite
 opscenter_int: eth1
+
+graphite_api_workers: 3
+graphite_api_timeout: 30
